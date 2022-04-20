@@ -8,10 +8,10 @@
 
 This is agular cli application that displays quotes, allowing user to input new quote(s), upvote or downvote on the same, and delete the quote when necessary. 
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
+
 ## Live Page 
 https://danielsambu100.github.io/Quotes-Application/
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
 ## Development server
 
